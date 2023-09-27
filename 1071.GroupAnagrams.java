@@ -3,7 +3,7 @@ import java.util.*;
 
 
  // best time complexity
-class Solution {
+class GroupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
            HashMap<String,List<String>> hash = new HashMap<>();
 
