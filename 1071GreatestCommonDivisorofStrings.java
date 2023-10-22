@@ -1,7 +1,6 @@
 
 public class 1071GreatestCommonDivisorofStrings
 {
-    
     static String gcd(String word1,String word2){
     
      if(word1.equals(word2))
