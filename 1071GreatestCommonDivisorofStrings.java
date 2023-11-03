@@ -5,8 +5,7 @@ public class 1071GreatestCommonDivisorofStrings
     
      if(word1.equals(word2))
        return word1;
-    
-    
+        
      if(word2.length() > word1.length())
        return gcd(word2,word1);
      
